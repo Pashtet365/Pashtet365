@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pashtet365
+- 👋 Hi, I’m Pavel
 - 👀 I’m interested in Money & Worck
 - 🌱 I’m currently learning C#, .NET Framework,
 JAVA, PASCAL, DELPHI, RadStudio, Python, HTML, CSS, creating server in Unturned, creating server in Minecraft, worck with Wordpress, Photoshop, InDesign, Page maker, Publisher, Sony Vegas, Coral Draw.

@@ -5,7 +5,7 @@ JAVA, PASCAL, DELPHI, RadStudio, Python, HTML, CSS, creating server in Unturned,
 - 💞️ I’m looking to collaborate on EPAM, IBM, ANDERSON, & Europe/USA/Other countries
 - 📫 How to reach me: 
 [Telegram](https://t.me/GolubevPavel365), golubevpvl@gmail.com 
-- ⚓ My website: [link](https://golubevpavel.ga/)
+- ⚓ My website: [link](https://pashtet365.github.io/ResumeGolubevPavel/)
 - 🌈 Additional information: [link](https://drive.google.com/drive/folders/1ye6FbSEwe0tf8CDcRjb9R1tdK9HS-NyI?usp=share_link)
 
 <!---
